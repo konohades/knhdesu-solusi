@@ -1,0 +1,11 @@
+rencana awal knh
+
+-selesaikan tutorial githup repo,branch,merge,fork
+  *repo clear
+  *branch clear
+  *merge 
+  *fork
+
+-mencoba ngoding html dan css di githup skalian blajar js
+-untuk sementara ini dulu.. klo udah mahir mungkin lanjut php atau reach js
+-semangat for me 
