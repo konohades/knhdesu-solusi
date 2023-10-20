@@ -6,8 +6,9 @@ rencana awal knh
   *merge 
   *fork
 -coba kasi saran bhasa pemograman yg akan saya coba?
-
-
+*html
+*css
+*javascrib
 -mencoba ngoding html dan css di githup skalian blajar js
 -untuk sementara ini dulu.. klo udah mahir mungkin lanjut php atau reach js
 -semangat for me 
