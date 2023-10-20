@@ -3,4 +3,4 @@ khh resolusi
 -kurangin main game dan perbanyak nonton tutorial sekaligus praktek
 -kali pertama pake git skaligus blajar bikin repositori
 -smangat for me >_<
--penambahan fitur
+
